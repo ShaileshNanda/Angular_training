@@ -9,7 +9,7 @@ function addNum(n1: number,n2: number, showValue: boolean, finalValue: string){
     if (printValue === true){
         console.log(finalValue + n1 + n2 )
     }else{
-        return n1 + n2
+        return n1 + n2;
     }
 }
 
